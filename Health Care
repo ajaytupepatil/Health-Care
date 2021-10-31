@@ -1,3 +1,5 @@
+#code is written in python
+
 print("\n\t**WELCOME**")
 print("A Family Of Medicine & Care")
 
@@ -488,5 +490,6 @@ if(v=='n'):
     print("\n\n** PLEASE FIRST OF ALL TAKE A VACCINE **")
     print("Tip:(Wear A Mask & Safely Using Hand Sanitizer...)")
 
-
-print("\n\n\t**GENERAL TIPS FOR ALL**\n#DO Daliy Exercies\n#daily walk 10-15 min in morning sun light\n#daily intake of one fruit\n#drink water 5-6 lit per day\n#prpoer meal\n#intake of protines,healthy fat etc...")
+print("\n\n\t*******************************************")
+print("\t\t**GENERAL TIPS FOR ALL**\n\n#DO Daliy Exercies\n#daily walk 10-15 min in morning sun light\n#daily intake of one fruit\n#drink water 5-6 lit per day\n#prpoer meal\n#intake of protines,healthy fat etc...")
+print("\n\n\t\tThank You!\n\t    please Visit Again....")
